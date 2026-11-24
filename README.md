@@ -21,7 +21,7 @@ Two interactive Tableau dashboards built on the Tableau Sample Superstore datase
 
 ## Preview
 ### Sales Performance
-![Sales Performance](Sales%20Performance%20.png)
+![Sales Performance](https://github.com/md-ziaul-haque-ds/superstore-tableau-dashboards/blob/main/Dashboard%20Screenshots/Sales%20Performance.png)
 
 ### Profitability & Returns
 ![Profitability & Returns](Profitability%20%26%20Returns.png)
