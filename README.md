@@ -1,30 +1,39 @@
-# Superstore Sales & Profitability Dashboards (Tableau)
+# Superstore Sales and Profitability Dashboards
 
-Two interactive Tableau dashboards built on the Tableau Sample Superstore dataset, covering sales performance, profitability and returns.
+Two interactive Tableau dashboards built with the Tableau Sample Superstore dataset. They help explore sales performance, profitability, and product returns.
 
 ## Live dashboards
+
 - [Sales Performance](https://public.tableau.com/app/profile/md.ziaul.haque2813/viz/Sales_Performance_dashboard_17955235579700/SalesPerformance)
 - [Profitability & Returns](https://public.tableau.com/app/profile/md.ziaul.haque2813/viz/Profit_Performance_dashboard/ProfitabilityReturns)
 
 ## Key findings
-- Sales of $2.33M, profit of $292K, profit margin of 12.56% and return rate of 5.79%
-- Consumer is half of all sales ($1.17M); Technology is the top category ($840K)
-- Copiers, Phones and Accessories generate about half of total profit
-- Tables, Bookcases and Supplies are loss-making; Tables lose about $18K
-- Office Supplies has the most returned orders despite having the lowest sales
+
+- Total sales are **$2.33M**, total profit is **$292.30K**, profit margin is **12.56%**, and return rate is **5.79%**.
+- Consumer is the largest segment, with about **$1.17M** in sales. Technology is the top category, with about **$839.9K**.
+- Copiers, Phones, and Accessories together account for about half of total profit.
+- Tables, Bookcases, and Supplies show losses; Tables has the largest loss at about **$17.8K**.
+- Office Supplies has the most returned orders (**234**), despite having the lowest sales of the three categories.
 
 ## Features
-- KPI cards for sales, orders, average order value, profit, margin and return rate
-- Top-N product rankings built with table calculations that re-rank under any filter
-- Filters for year, month, quarter, category, region and manager
-- Monthly trend charts and profit/loss by sub-category
 
-## Preview
+- KPI cards for sales, orders, average order value, profit, profit margin, and return rate.
+- Top product rankings that update with dashboard filters.
+- Filters for date, category, region, manager, and sub-category.
+- Monthly trend charts and profit or loss comparisons by sub-category.
+
+## Previews
+
 ### Sales Performance
-![Sales Performance](https://github.com/md-ziaul-haque-ds/superstore-tableau-dashboards/blob/main/Dashboard%20Screenshots/Sales%20Performance.png)
+
+![Sales Performance dashboard](images/sales-performance.png)
 
 ### Profitability & Returns
-![Profitability & Returns](https://github.com/md-ziaul-haque-ds/superstore-tableau-dashboards/blob/main/Dashboard%20Screenshots/Profitability%20%26%20Returns.png)
 
-## Tools
-Tableau Public, Excel (Sample Superstore dataset)
+![Profitability and Returns dashboard](images/profitability-returns.png)
+
+## Tools and data
+
+- Tableau Public
+- Excel
+- Tableau Sample Superstore dataset
