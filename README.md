@@ -3,8 +3,8 @@
 Two interactive Tableau dashboards built on the Tableau Sample Superstore dataset, covering sales performance, profitability and returns.
 
 ## Live dashboards
-- [Sales Performance](https://public.tableau.com/views/Sales_Performance_dashboard_17922158434040/SalesPerformance)
-- [Profitability & Returns](https://public.tableau.com/views/Profit_Performance_dashboard/ProfitabilityReturns)
+- [Sales Performance](https://public.tableau.com/app/profile/md.ziaul.haque2813/viz/Sales_Performance_dashboard_17955235579700/SalesPerformance)
+- [Profitability & Returns](https://public.tableau.com/app/profile/md.ziaul.haque2813/viz/Profit_Performance_dashboard/ProfitabilityReturns)
 
 ## Key findings
 - Sales of $2.33M, profit of $292K, profit margin of 12.56% and return rate of 5.79%
