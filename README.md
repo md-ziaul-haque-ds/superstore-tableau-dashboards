@@ -30,7 +30,7 @@ Two interactive Tableau dashboards built with the Tableau Sample Superstore data
 
 ### Profitability & Returns
 
-![Profitability and Returns dashboard](images/profitability-returns.png)
+![Profitability and Returns dashboard](https://github.com/md-ziaul-haque-ds/superstore-tableau-dashboards/blob/main/Dashboard%20Screenshots/Profitability%20%26%20Returns.png)
 
 ## Tools and data
 
